@@ -6,7 +6,7 @@ Oliver Purschke
 
 This document describes the workflow (with contributions from Jürgen Dengler and Florian Jansen) that was used to generate the taxonomic backbone that standardizes taxon names across the (i) global vegetation plot database sPlot version 2.1 and (ii) the global plant trait data base TRY version 3.
 
-To cite backbone use:
+To cite the backbone use:
 [![DOI](https://zenodo.org/badge/100116250.svg)](https://zenodo.org/badge/latestdoi/100116250)
 and the respective sources listed below.
 
